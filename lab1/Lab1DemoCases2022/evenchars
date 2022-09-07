@@ -1,0 +1,1 @@
+Encrypt  a block of information  for sending over  a network, and decrypt received information to obtain the original information. Your task would be to implement 2 programs or modules (an encrypter and a decrypter).  The assignment  introduces you to a basic algorithm used for cryptography.  
